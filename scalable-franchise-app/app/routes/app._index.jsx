@@ -29,7 +29,7 @@ const EmptyQRCodeState = ({ onAction }) => (
   <EmptyState
     heading="Create unique QR codes for your product"
     action={{
-      content: "Create QR code",
+      content: "Let's create QR code",
       onAction,
     }}
     image="https://cdn.shopify.com/s/files/1/0262/4071/2726/files/emptystate-files.png"
